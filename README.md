@@ -28,3 +28,10 @@ The assistive system would aid visually impaired individuals in detecting object
 ## Assistive System Use Case Diagram:
 <img width="904" alt="Screenshot 2024-10-31 at 6 54 56 PM" src="https://github.com/user-attachments/assets/dbbf1e82-692d-4783-be42-c0179f803e5a">
 
+## How to use
+
+## Pros of the System
+
+## Cons of the System 
+
+### For more detailed explaination, read journal.pdf
