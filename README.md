@@ -7,7 +7,12 @@ The developed system would aid visually impaired individuals in detecting object
 3. HDMI Cables, Monitor, Power bank
 4. MK240 Wireless Keyboard & Mouse
 5. Smartphone
-6. Headset 
+6. Headset
+
+## Hardware Setup:
+<img width="938" alt="Screenshot 2024-10-31 at 6 44 45 PM" src="https://github.com/user-attachments/assets/14da0792-1759-4dcd-ade0-73b03db22cf0">
+
+
 
 ## Software Used:
 1. Raspbian GNU/Linux 11 bullseye (OS of Raspberry Pi)
@@ -18,3 +23,4 @@ The developed system would aid visually impaired individuals in detecting object
 6. googletrans (Google Translate API)
 7. gtts (Text-to-Speech)
 8. Python 
+
