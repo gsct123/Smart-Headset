@@ -34,4 +34,4 @@ The assistive system would aid visually impaired individuals in detecting object
 
 ## Cons of the System 
 
-### For more detailed explaination, read journal.pdf
+### For more detailed explaination, read journal.pdf 🤪
