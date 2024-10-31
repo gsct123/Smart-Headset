@@ -7,6 +7,7 @@ The developed system would aid visually impaired individuals in detecting object
 3. HDMI Cables, Monitor, Power bank
 4. MK240 Wireless Keyboard & Mouse
 5. Smartphone
+6. Headset 
 
 ## Software Used:
 1. Raspbian GNU/Linux 11 bullseye (OS of Raspberry Pi)
