@@ -20,7 +20,8 @@ The assistive system would aid visually impaired individuals in detecting object
 5. Pygame (GUI Creation)
 6. googletrans (Google Translate API)
 7. gtts (Text-to-Speech)
-8. Python 
+8. Python
+9. RealVNC (Remote Exist)
 
 ## Software Workflow:
 <img width="939" alt="Screenshot 2024-10-31 at 6 52 05 PM" src="https://github.com/user-attachments/assets/17a4b0b3-f80f-4675-aaa5-718e75a980f1">
