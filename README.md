@@ -8,6 +8,7 @@ The assistive system would aid visually impaired individuals in detecting object
 4. MK240 Wireless Keyboard & Mouse
 5. Smartphone (For Wireless Connection)
 6. Headset
+7. Earphone
 
 ## Hardware Setup:
 <img width="938" alt="Screenshot 2024-10-31 at 6 44 45 PM" src="https://github.com/user-attachments/assets/14da0792-1759-4dcd-ade0-73b03db22cf0">
